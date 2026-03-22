@@ -10,7 +10,7 @@ These are the third-party tools Tanja uses to run ExploreClairemont.com and rela
 ### VistaSocial
 - **What it is:** Social media scheduling and management tool
 - **How Tanja uses it:** Scheduling and publishing posts for @exploreclairemont across Instagram, Facebook, and TikTok
-- **Notes:** [Add any specifics about workflow here]
+- **Stats:** 150,000+ avg monthly local views, 13.6% avg engagement rate
 
 ---
 
@@ -19,7 +19,7 @@ These are the third-party tools Tanja uses to run ExploreClairemont.com and rela
 ### Zylvie
 - **What it is:** Digital product and offer sales platform
 - **How Tanja uses it:** [Add how you use this — selling memberships, deals, Explorer Exclusives?]
-- **Notes:** [Add any specifics]
+- **Notes:** [Add any specifics — is this connected to Explorer Exclusives or the store?]
 
 ---
 
@@ -27,16 +27,16 @@ These are the third-party tools Tanja uses to run ExploreClairemont.com and rela
 
 ### NinjaPipe
 - **What it is:** CRM and pipeline management tool
-- **How Tanja uses it:** [Add how you use this — managing business partners, ad clients, leads?]
-- **Notes:** [Add any specifics]
+- **How Tanja uses it:** Managing business partner relationships, advertising clients, and sales pipeline
+- **Notes:** [Add any specifics about workflow]
 
 ---
 
 ## Customer Communication
 
 ### ReplySync
-- **What it is:** [Social media comment/reply management tool?]
-- **How Tanja uses it:** [Add how you use this]
+- **What it is:** Social media comment and reply management tool
+- **How Tanja uses it:** Managing comments and replies across @exploreclairemont social platforms
 - **Notes:** [Add any specifics]
 
 ---
