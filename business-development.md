@@ -97,16 +97,29 @@ Vouchers (e.g. $40 for $20), Coupons (e.g. free appetizer), Percentage Off, BOGO
 ## Proposal Examples
 
 ### Coastline Real Estate Group (March 2026)
+- Contact: Shaylie Gilliland (shaylie@coastlinesandiego.com)
 - Exclusive real estate partner opportunity
-- 3-month intro: $1,800 ($600/month) with path to annual exclusive deal — intentionally low to attract first partner
-- Included: newsletter Real Estate Roundup sponsorship, Guess the House Price poll, featured directory listing, display ad
-- Add-ons: social posts ($125-$225), feature article ($1,500)
+- 3-month intro: $1,800 ($600/month) — intentionally low to attract first partner
+- Tanja met with Shaylie in person before sending proposal
+- Proposal sent March 10, follow-up March 17, second follow-up March 20
+- Status as of March 2026: awaiting response — Shaylie acknowledged receipt but hasn't decided
+- Tanja's follow-up style: warm, low pressure, gives them an out ("completely understand if it's not an option right now")
 
 ### Little Backstube (March 2026)
-- Special introductory deal — low barrier to entry, community-first approach
-- $250 total for: 30-day free Explorer Exclusives beta test + feature article in newsletter and permanent on website + promotion in newsletter and socials
-- This is an example of Tanja creating flexible, creative deals tailored to the business
-- Strategy: get businesses into the ecosystem with low risk, demonstrate value, build relationship
+- Contact: Renate Neira (littlebackstube@gmail.com)
+- German bakery, pickup-based business (locations: UTC/Swanson Pool area and Renate's house in Clairemont)
+- Orders via hotplate.com/littlebackstube
+- Special deal: $250 for 30-day Explorer Exclusives beta test (15% off voucher) + feature article in newsletter + promotion on socials
+- Tanja actively helped with redemption process — worked late, troubleshot merchant dashboard issues with Renate directly
+- Readers responded well — community engaged with the offer and article
+- This is a great example of Tanja going above and beyond for a partner
+
+### Indya Restaurant (January 2026)
+- Contact: Gubi Khindra (eatindya@gmail.com)
+- Featured story written by Tanja, included in Fast Times newsletter
+- Result: owner personally thanked Tanja, reported guests coming in specifically because of the article
+- Demonstrates the real impact of content collaboration on local businesses
+- Received multiple 5-star reviews through Explorer Exclusives system after the feature
 
 ---
 
