@@ -14,12 +14,45 @@ These are the third-party tools Tanja uses to run ExploreClairemont.com and rela
 
 ---
 
+## Video & Sales Outreach
+
+### FacePop
+- **What it is:** Interactive video pop-up tool for business outreach and website engagement
+- **How Tanja uses it:** A face-to-camera video intro ("From one small business to another") that plays as a pop-up for prospective business partners
+- **Share link:** https://share.facepop.io/7efc574a-5cc9-4c72-b188-08d3bb307107
+- **What it contains:** General overview of Tanja, ExploreClairemont, and all programs — NOT specific to Explorer Exclusives
+- **CTA buttons inside the video:**
+  - 📅 Let's talk! (booking/calendar)
+  - 👍 Partner with us! (partnership inquiry)
+  - ⬇️ Grab our marketing kit (download)
+  - 🎬 Deals Program Demo (links to Dadan EE video)
+- **Notes:** Used in DMs and emails as the human connection piece — gets the face-to-face feel before a call
+
+### Dadan
+- **What it is:** Video hosting platform with AI transcript, sharing, and CTA tools
+- **How Tanja uses it:** Hosts the Explorer Exclusives program demo video
+- **Share link:** https://app.dadan.io/video/share/Tu7BUpa7OHarGRw4
+- **Video title:** Explorer Exclusives Video
+- **Video length:** 4:04
+- **What it covers:**
+  - How deals are promoted (website, newsletter, social)
+  - The coupon/voucher offer and how customers redeem
+  - Post-purchase automatic review request emails
+  - Review intercept system — negative reviews held 7 days so merchant can resolve before going public
+  - Merchant redemptions and analytics dashboard
+  - CSV export of customer emails for business's own marketing
+- **CTA button on player:** "Book a call to discuss!"
+- **Notes:** This is the closer — sent after FacePop or linked from inside the FacePop via the "Deals Program Demo" button. The review intercept feature is the biggest hook for business owners.
+
+
+---
+
 ## Sales & Offers
 
 ### Zylvie
 - **What it is:** Digital product and offer sales platform
-- **How Tanja uses it:** [Add how you use this — selling memberships, deals, Explorer Exclusives?]
-- **Notes:** [Add any specifics — is this connected to Explorer Exclusives or the store?]
+- **How Tanja uses it:** Powers store.exploreclairemont.com — sells directory listings, event listings, Explorer Exclusives vouchers, and free downloads
+- **Notes:** Not WooCommerce or Shopify — it's a standalone SaaS storefront on a subdomain
 
 ---
 
@@ -44,7 +77,7 @@ These are the third-party tools Tanja uses to run ExploreClairemont.com and rela
 ## Website & WordPress
 
 ### Plugins built by Tanja
-See `wordpress-setup.md` for full details on custom plugins.
+See `ec-wordpress-setup.md` for full details on custom plugins.
 
 ### Key WordPress plugins/tools in use
 - **Gridbuilder** — page/grid layout builder
@@ -53,7 +86,9 @@ See `wordpress-setup.md` for full details on custom plugins.
 - **Perfmatters** — performance optimization
 - **Object Cache** — caching
 - **Bit Form** — forms
-- [Add others as needed]
+- **FluentCRM** — email marketing and CRM (2,010 contacts)
+- **FluentSMTP** — email delivery
+- **Advanced Ads** — ad management
 
 ---
 
@@ -61,3 +96,4 @@ See `wordpress-setup.md` for full details on custom plugins.
 - Before suggesting a new tool, check this file — Tanja may already have something that does the job
 - These tools often connect to each other — ask Tanja about integrations before assuming things are siloed
 - Tanja is not a developer, so tool suggestions should be practical and low-friction
+- FacePop + Dadan work as a two-step video sales funnel — FacePop opens the door, Dadan closes it
