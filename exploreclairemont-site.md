@@ -13,7 +13,7 @@ ExploreClairemont.com is a **hyperlocal community website** for the Clairemont a
 ## Site Sections & Features
 
 ### Business & Events Directories
-Local business listings and community event calendar for the Clairemont area.
+Local business listings and community event calendar for the Clairemont area. Directory data is sourced from City of San Diego business license data, which Tanja has enriched and organized.
 
 ### Explorer Exclusives
 A deals/offers section — exclusive discounts and promotions from local businesses for community members.
@@ -36,6 +36,12 @@ A community photo section — visual content submitted by or featuring community
 ### Partner Programs
 Business partnership and sponsorship opportunities for local businesses to be featured or promoted.
 
+### Community Contests
+Tanja runs recurring community contests — past examples include the Cutest Pet Contest. These are a key community engagement tool and have their own custom plugin.
+
+### Content Series
+Ongoing content series include Happy Hour guides covering local bars and restaurants in the Clairemont area.
+
 ## Additional Properties
 - **Store:** store.exploreclairemont.com
 - **Social media:** Instagram, Facebook, TikTok — all @exploreclairemont
@@ -49,5 +55,11 @@ To be the go-to hyperlocal hub for Clairemont — connecting neighbors, champion
 
 ## Technical Notes
 - Built on WordPress
-- Tanja has developed custom plugins for the site
+- Tanja has developed custom plugins for the site (contests, coupons, polls, and more)
 - Uses GitHub for version control of plugins and site code
+- Current plugin code lives in GitHub repos — any older PHP files elsewhere are outdated versions
+
+## Brand Assets
+- Logos, banners, table tents, and other brand materials are stored locally on Tanja's external drive
+- Social media banners exist for Facebook and other platforms
+- All assets are in the Explore CLMT folder on the 4TB external drive
