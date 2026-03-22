@@ -93,6 +93,22 @@ Vouchers (e.g. $40 for $20), Coupons (e.g. free appetizer), Percentage Off, BOGO
 - Clairemont native — authenticity and community trust are core to the pitch
 - Personally writes all content, manages all partnerships
 
+## Proposal Examples
+
+### Coastline Real Estate Group (March 2026)
+- Exclusive real estate partner opportunity
+- 3-month intro: $1,800 ($600/month) with path to annual exclusive deal
+- Included: newsletter Real Estate Roundup sponsorship, Guess the House Price poll, featured directory listing, display ad
+- Add-ons: social posts ($125-$225), feature article ($1,500)
+
+### Little Backstube (March 2026)
+- Special introductory deal — low barrier to entry, community-first approach
+- $250 total for: 30-day free Explorer Exclusives beta test + feature article in newsletter and permanent on website + promotion in newsletter and socials
+- This is an example of Tanja creating flexible, creative deals tailored to the business
+- Strategy: get businesses into the ecosystem with low risk, demonstrate value, build relationship
+
+---
+
 ## Notes for Claude
 - When helping write proposals, match the warm but professional tone of existing proposals
 - Always lead with community trust and hyperlocal focus — that's the differentiator
