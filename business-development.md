@@ -69,7 +69,8 @@ Vouchers (e.g. $40 for $20), Coupons (e.g. free appetizer), Percentage Off, BOGO
 - Proposals are sent as PDFs via Google Drive
 - Introductory/trial periods offered before committing to long-term partnerships
 - Exclusive partnerships available for certain categories (e.g. one real estate partner)
-- Pricing example: 3-month real estate intro package at $1,800 ($600/month)
+- **Tanja is in early growth mode (launched July 2025)** — she intentionally prices low to attract first advertisers, build case studies, and prove the platform's value
+- The strategy is: low barrier to entry now → demonstrate results → raise rates as the platform grows
 
 ## Add-On Pricing Examples
 - Social media carousel post: $125
@@ -97,7 +98,7 @@ Vouchers (e.g. $40 for $20), Coupons (e.g. free appetizer), Percentage Off, BOGO
 
 ### Coastline Real Estate Group (March 2026)
 - Exclusive real estate partner opportunity
-- 3-month intro: $1,800 ($600/month) with path to annual exclusive deal
+- 3-month intro: $1,800 ($600/month) with path to annual exclusive deal — intentionally low to attract first partner
 - Included: newsletter Real Estate Roundup sponsorship, Guess the House Price poll, featured directory listing, display ad
 - Add-ons: social posts ($125-$225), feature article ($1,500)
 
