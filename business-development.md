@@ -3,10 +3,10 @@
 ## Overview
 Tanja sells hyperlocal advertising and partnership packages to local businesses in the Clairemont area. The pitch is always community-first — businesses partner with ExploreClairemont because our audience trusts us and we live here too.
 
-## Key Stats (as of early 2026)
-- **Newsletter:** 2,000 subscribers, 60%+ open rate (well above industry average)
+## Key Stats (as of July 2026)
+- **Newsletter:** 2,700 subscribers, 50%+ open rate (well above industry average)
 - **Website:** 3,000 monthly visitors
-- **Instagram:** 1,685 followers, 103% growth in 30 days
+- **Instagram:** 4,300 followers,500 new followers in 30 days (as of July 2026)
 - **Social reach:** 150,000+ avg monthly local views, 13.6% avg engagement rate
 
 ## Audience Demographics
@@ -28,8 +28,8 @@ Vouchers (e.g. $40 for $20), Coupons (e.g. free appetizer), Percentage Off, BOGO
 ## What We Offer Partners
 
 ### 1. Newsletter Sponsorships
-- Weekly Fast Times newsletter reaches 2,000 locals
-- 60%+ open rate
+- Weekly Fast Times newsletter reaches 2,700 locals
+- 50%+ open rate
 - Placements: top-of-email logo, Local Spotlight feature, in-content display ad
 
 ### 2. Display Advertising
@@ -75,7 +75,7 @@ Vouchers (e.g. $40 for $20), Coupons (e.g. free appetizer), Percentage Off, BOGO
 ## Add-On Pricing Examples
 - Social media carousel post: $125
 - Social media reel: $225
-- Feature article (newsletter + website permanent): $1,500
+- Feature article (newsletter + website permanent): $1,000
 
 ---
 
