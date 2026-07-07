@@ -67,7 +67,7 @@ These are the third-party tools Tanja uses to run ExploreClairemont.com and rela
 
 ## Customer Communication
 
-### ReplySync
+### DM Champ
 - **What it is:** Social media comment and reply management tool
 - **How Tanja uses it:** Managing comments and replies across @exploreclairemont social platforms
 - **Notes:** [Add any specifics]
@@ -88,7 +88,7 @@ See `ec-wordpress-setup.md` for full details on custom plugins.
 - **Bit Form** — forms
 - **FluentCRM** — email marketing and CRM (2,010 contacts)
 - **FluentSMTP** — email delivery
-- **Advanced Ads** — ad management
+- **Ads Plugin** — self-built ad management plugin
 
 ---
 
