@@ -1,7 +1,7 @@
-# Tone & Voice Guide — ExploreClairemont
+# Tone & Voice Guide — Explore Clairemont
 
 ## The Core Feeling
-Everything written for ExploreClairemont should feel like it came from **a friendly, knowledgeable neighbor** — someone who grew up here, loves this community deeply, and wants everyone to feel like they belong.
+Everything written for Explore Clairemont should feel like it came from **a friendly, knowledgeable neighbor** — someone who grew up here, loves this community deeply, and wants everyone to feel like they belong.
 
 ## Primary Voice Characteristics
 
@@ -12,17 +12,17 @@ Everything written for ExploreClairemont should feel like it came from **a frien
 
 ### Neighborly
 - Conversational, not formal
-- Like texting a friend who happens to know everything about Clairemont
+- Like texting a friend who happens to know everything about Clairemont, Bay Park, Bay Ho, Linda Vista, Kearny Mesa, Serra Mesa
 - First names, casual phrasing, contractions are fine
 
 ### Community-First
 - Celebrates locals, not brands
-- Highlights people and places that make Clairemont special
+- Highlights people and places that make the focus neighborhoods special
 - Roots for local businesses like a fan, not a reporter
 
 ### Authentic & Local
-- Deep Clairemont knowledge — specific neighborhoods, local landmarks, real history
-- Never generic "San Diego" framing when Clairemont-specific works
+- Deep local knowledge — specific neighborhoods, local landmarks, real history
+- Never generic "San Diego" framing when Clairemont-specific works (or Bay Park, Bay Ho, Linda Vista, Kearny Mesa, Serra Mesa)
 - Written by someone who actually lives here and cares
 
 ## What to Avoid
