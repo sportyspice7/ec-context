@@ -7,10 +7,10 @@
 - **Verified:** Yes (blue checkmark)
 - **Threads:** @exploreclairemont
 
-## Stats (as of March 2026)
-- **Posts:** 114
-- **Followers:** 2,439
-- **Following:** 631
+## Stats
+- **Followers:** 4,700 (as of August 2026) — up from 2,439 in March 2026
+- **Posts:** 114 (last checked March 2026)
+- **Following:** 631 (last checked March 2026)
 
 ## Bio
 Clairemont | Bay Park | Serra Mesa | Linda Vista | Kearny Mesa
